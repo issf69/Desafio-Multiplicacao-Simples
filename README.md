@@ -1,4 +1,4 @@
-# DevSolitario-Desafio-Multiplicacao-Simples
+# Desafio-Multiplicacao-Simples
 Desafio Multiplicação Simples
 ## package dev.solitario.com.br;
 
